@@ -1348,6 +1348,7 @@ Name: 广东卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibo
 Name: 广东卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228312/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228566/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东卫视, URL: http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226180/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000520$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225612/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1455,6 +1456,7 @@ Name: 浙江卫视, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobi
 Name: 浙江卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225959/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002206/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000531$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225610/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1536,6 +1538,7 @@ Name: 湖南卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c
 Name: 湖南卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226193/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 湖南卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000523$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 北京卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 北京卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 北京卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225728/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1882,6 +1885,7 @@ Name: 安徽卫视, URL: http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000
 Name: 安徽卫视, URL: http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 安徽卫视, URL: http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 安徽卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002200/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 安徽卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000514$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225618/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1960,6 +1964,7 @@ Name: 重庆卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/Umai
 Name: 重庆卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 重庆卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000517$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225735/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -2136,6 +2141,7 @@ Name: 东南卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/Umai
 Name: 东南卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225585/index.m3u8?fmt=ts2hls$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东南卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东南卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000519$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 甘肃卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 甘肃卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225633/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 甘肃卫视, URL: http://[2409:8087:74f0:22::5]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000023$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -2407,6 +2413,12 @@ Name: 海南卫视, URL: http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000
 Name: 海南卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaBeOsoiQC4O7YVlhWLaUupjXkJIrEMFMF2spHJh%2FN1RLi84Ue88x97wZoubXLeSwCFBwRVp81CkC12%2Foosdnmw$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 海南卫视, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000037/index.m3u8?                                                                                                                                                     吉林卫视$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 海南卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000037$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230823/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230823/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/PLTV/1/224/3221230944/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/PLTV/1/224/3221230944/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8?$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河北卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河北卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河北卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226406/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -2561,6 +2573,7 @@ Name: 河南卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/Umai
 Name: 河南卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河南卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河南卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000027$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 吉林卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 吉林卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010075/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 吉林卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226397/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -2801,6 +2814,7 @@ Name: 江西卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/8888891
 Name: 江西卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江西卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2488758368_-1947201691/ott.mobaibox.com/PLTV/3/224/3221228557/index.m3u8?icpid=3&RTS=1674459913&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江西卫视, URL: http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226207/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 江西卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000525$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226546/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -2881,6 +2895,8 @@ Name: 辽宁卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibo
 Name: 辽宁卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/1/224/3221228310/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226209/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002201/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 辽宁卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000526$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 辽宁卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001945/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 内蒙古卫视, URL: http://[2409:8087:74d9:21::6]/270000001128/9900000044/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 内蒙古卫视, URL: http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221225664/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 内蒙古卫视, URL: http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002237/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -2918,6 +2934,7 @@ Name: 内蒙古卫视, URL: http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888
 Name: 内蒙古卫视, URL: http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225846/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 内蒙古卫视, URL: http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 内蒙古卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 内蒙古卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000044$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 宁夏卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 宁夏卫视, URL: http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000047$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 宁夏卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010110/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -3019,6 +3036,7 @@ Name: 青海卫视, URL: http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888
 Name: 青海卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 青海卫视, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 青海卫视, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000042/index.m3u8?                                                               CCTV1 4M1080$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 青海卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000042$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山东卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000370/index.m3u8?IASHttpSessionId=$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山东卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010066/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山东卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226456/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -3106,6 +3124,7 @@ Name: 山东卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibo
 Name: 山东卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228315/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山东卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/1/224/3221228315/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山东卫视, URL: http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226162/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226162/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山西卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225624/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山西卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山西卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010114/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -3404,6 +3423,8 @@ Name: 天津卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/Umai
 Name: 天津卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225698/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 天津卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 天津卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002205/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000530$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226191/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 西藏卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225638/2.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 西藏卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010123/1.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 西藏卫视, URL: http://[2409:8087:74d9:21::6]/270000001128/9900000043/index.m3u8$订阅源-, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
